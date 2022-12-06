@@ -1,0 +1,27 @@
+header {
+    border-bottom: solid 2px rgb(0,0,0);
+    display:flex;
+    justify-content: space-between;
+}
+
+header p {
+    width: 20%;
+    font-size:40px;
+}
+
+ul {
+    width:20%;
+    display:flex;
+    font-size: 30px;
+    justify-items: start;
+
+}
+
+li {
+    list-style-type: none;
+    width:25%;
+}
+
+a {
+    color: rgb(0,153,0);
+}

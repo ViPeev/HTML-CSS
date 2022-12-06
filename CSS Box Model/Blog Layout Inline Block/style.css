@@ -1,0 +1,29 @@
+html {
+    font-family: Helvatica, sans-serif;
+}
+
+body {
+    background-color: rgb(238,238,238);
+    color:rgb(51,51,51);
+    margin: 0;
+    padding: 20px;
+    overflow: auto;
+}
+
+article,aside {
+    display: inline-block;
+}
+
+img {
+    width:100%;
+    height: auto;
+}
+
+article {
+    width:65%;
+}
+
+aside {
+    width:30%;
+    float:right;
+}

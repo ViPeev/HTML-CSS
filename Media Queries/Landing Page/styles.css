@@ -1,0 +1,35 @@
+body {
+    display:flex;
+    justify-content: center;
+    padding:50px;
+}
+
+form {
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    display:inline-block;
+    width:300px;
+    height:80px;
+    padding-top:30px;
+}
+
+label {
+    display:inline-block;
+    width:30%;
+    margin-left:20px;
+}
+
+div {
+    margin-bottom: 10px;;
+}
+
+.login-label {
+    position:absolute;
+    top:40px;
+    padding-top:5px;
+    width:100px;
+    height:30px;
+    vertical-align: baseline;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    background-color: white;
+    text-align: center;
+}
